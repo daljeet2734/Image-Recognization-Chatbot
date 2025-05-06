@@ -90,7 +90,7 @@ You can deploy the app using:
 
 ## 🧑‍💻 Contributors
 
-👤 Pankaj Silot (Developer & Project Lead)
+👤 Daljeet Singh (Developer & Project Lead)
 👨‍🎓 Developed under the academic project: Conversational Image Recognition Chatbot
 
 ## 📜 License
